@@ -1,1 +1,1 @@
-# GraphProlog
+Introduction to prolog
