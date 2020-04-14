@@ -1,0 +1,18 @@
+Ik heb een aantal oefeningen in 1 bestand gestoken, namelijk:
+-Oefening 4
+-Oefening 5
+-Uitbreiding 7.1
+
+Volgende functies zijn mogelijk:
+-shortest_simple(Start,Stop): berekent kortste pad tussen start en stop, en print deze uit naar de console.
+-shortest_simple: vraag Start en Stop in te geven en roept voorgaande functie op.
+-shortest_complex(InStream,OutStream): berekent kortste pad van alle koppels in Instream, en schrijft de oplossing naar OutStream.
+-shortest_complex: vraagt InStream en OutStream in te geven en roept voorgaande functie op.
+-all_simple(Start,Stop): berekent kortste pad tussen start en stop, en print deze uit naar de console.
+-all_simple: vraag Start en Stop in te geven en roept voorgaande functie op.
+-all_complex(InStream,OutStream): berekent alle paden van alle koppels in Instream, en schrijft de oplossing naar OutStream.
+-all_complex: vraagt InStream en OutStream in te geven en roept voorgaande functie op.
+
+De inputfile is meegegeven:
+-1 stad per lijn gevolg door een punt. (Een oneven aantal steden geeft 'false')
+-in de code wordt verwezen naar 'in.txt' en 'out.txt'
